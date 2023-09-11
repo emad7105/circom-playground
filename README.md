@@ -1,7 +1,6 @@
 # Circom Examples
 
-The projet skeleton (MAKE file, etc.) is copied from [here]
-[zklearning] 
+The project skeleton (MAKE file, etc.) is copied from [here][zklearning] 
 
 ## Dependencies
 

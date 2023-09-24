@@ -2,11 +2,14 @@
 
 The project skeleton (MAKE file, etc.) is copied from [here][zklearning] 
 
-## Dependencies
+## Dependencies & Requirements
 
 * [`circom`](https://github.com/iden3/circom)
 * [`node`](https://nodejs.org/en/)
 * [`snarkjs`](https://github.com/iden3/snarkjs)
+
+Clone `circomlib`:  
+`git clone https://github.com/iden3/circomlib.git`
 
 ## Instructions
 
